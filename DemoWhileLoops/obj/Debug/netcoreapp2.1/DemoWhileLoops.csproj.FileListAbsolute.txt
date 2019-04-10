@@ -1,0 +1,10 @@
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_WhileLoops\DemoWhileLoops\bin\Debug\netcoreapp2.1\DemoWhileLoops.deps.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_WhileLoops\DemoWhileLoops\bin\Debug\netcoreapp2.1\DemoWhileLoops.runtimeconfig.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_WhileLoops\DemoWhileLoops\bin\Debug\netcoreapp2.1\DemoWhileLoops.runtimeconfig.dev.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_WhileLoops\DemoWhileLoops\bin\Debug\netcoreapp2.1\DemoWhileLoops.dll
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_WhileLoops\DemoWhileLoops\bin\Debug\netcoreapp2.1\DemoWhileLoops.pdb
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_WhileLoops\DemoWhileLoops\obj\Debug\netcoreapp2.1\DemoWhileLoops.csproj.CoreCompileInputs.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_WhileLoops\DemoWhileLoops\obj\Debug\netcoreapp2.1\DemoWhileLoops.AssemblyInfoInputs.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_WhileLoops\DemoWhileLoops\obj\Debug\netcoreapp2.1\DemoWhileLoops.AssemblyInfo.cs
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_WhileLoops\DemoWhileLoops\obj\Debug\netcoreapp2.1\DemoWhileLoops.dll
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_WhileLoops\DemoWhileLoops\obj\Debug\netcoreapp2.1\DemoWhileLoops.pdb
